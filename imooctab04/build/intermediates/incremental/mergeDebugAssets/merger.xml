@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="/Users/yushi/workspace/imooc-tab04/imooctab04/build/intermediates/exploded-aar/imooc-tab04/viewPagerlibrary/unspecified/assets"/></dataSet><dataSet config="main"><source path="/Users/yushi/workspace/imooc-tab04/imooctab04/src/main/assets"/><source path="/Users/yushi/workspace/imooc-tab04/imooctab04/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/yushi/workspace/imooc-tab04/imooctab04/src/debug/assets"/></dataSet></merger>

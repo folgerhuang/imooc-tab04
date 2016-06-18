@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/yushi/workspace/imooc-tab04/imooctab04/build/intermediates/res/merged/debug/layout/frag.xml",
+        "source": "/Users/yushi/workspace/imooc-tab04/imooctab04/src/main/res/layout/frag.xml"
+    },
+    {
+        "merged": "/Users/yushi/workspace/imooc-tab04/imooctab04/build/intermediates/res/merged/debug/layout/top.xml",
+        "source": "/Users/yushi/workspace/imooc-tab04/imooctab04/src/main/res/layout/top.xml"
+    },
+    {
+        "merged": "/Users/yushi/workspace/imooc-tab04/imooctab04/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/yushi/workspace/imooc-tab04/imooctab04/src/main/res/layout/activity_main.xml"
+    }
+]

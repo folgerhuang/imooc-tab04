@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yushi/workspace/imooc-tab04/imooctab04/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1628503924fb10732049622b0c98828943840cdc">
+        <dex dex="/Users/yushi/workspace/imooc-tab04/imooctab04/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bbdefe7d02bdeac764cd613786f37de1b2e52aaf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/yushi/workspace/imooc-tab04/imooctab04/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0c73a6754b3c11de64debce229bc0c87fade3562">
+        <dex dex="/Users/yushi/workspace/imooc-tab04/imooctab04/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b8b6908e4a0a34c3923e4740a5e52784a1d7fea4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/yushi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/yushi/workspace/imooc-tab04/imooctab04/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_c2fd48e6241669f872b24a50d0b0d53adf74fba6/classes.dex" />
+    </item>
+
+</items>

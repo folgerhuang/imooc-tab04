@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="22"
+    density="420dpi"
+    format="7"
+    timestamp="196125668723768" >
+
+    <task
+        name="javac"
+        duration="178" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="183" />
+    <task
+        name="verifier"
+        duration="26" />
+
+    <artifact
+        location="/Users/yushi/workspace/imooc-tab04/imooctab04/build/outputs/apk/imooctab04-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="196125668723768" >
+        <artifact
+            location="/Users/yushi/workspace/imooc-tab04/imooctab04/build/outputs/apk/imooctab04-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

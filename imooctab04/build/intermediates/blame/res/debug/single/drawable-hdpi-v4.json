@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/yushi/workspace/imooc-tab04/imooctab04/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/yushi/workspace/imooc-tab04/imooctab04/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yushi/workspace/imooc-tab04/imooctab04/build/intermediates/res/merged/debug/drawable-hdpi-v4/idx_logo.png",
+        "source": "/Users/yushi/workspace/imooc-tab04/imooctab04/src/main/res/drawable-hdpi/idx_logo.png"
+    },
+    {
+        "merged": "/Users/yushi/workspace/imooc-tab04/imooctab04/build/intermediates/res/merged/debug/drawable-hdpi-v4/base_action_bar_back_divider.png",
+        "source": "/Users/yushi/workspace/imooc-tab04/imooctab04/src/main/res/drawable-hdpi/base_action_bar_back_divider.png"
+    }
+]
